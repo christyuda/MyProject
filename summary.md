@@ -1,3 +1,3 @@
 # MyProject
 
-# menambahkan sesuatu di feature c
+# menambahkan sesuatu di feature c yaitu fitur Lama
