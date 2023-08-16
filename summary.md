@@ -1,3 +1,3 @@
 # MyProject
 
-# menambahkan sesuatu di feature b
+# menambahkan sesuatu di feature c
